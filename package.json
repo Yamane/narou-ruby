@@ -1,7 +1,7 @@
 {
   "name": "narou-ruby",
   "main": "./lib/narou-ruby",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Rubyじゃないです。小説家になろう用のルビを振る部分のサポートをちょっとするだけ。",
   "keywords": [],
   "activationCommands": {
