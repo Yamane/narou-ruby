@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "ルビをふる",
+        "command": "narou-ruby:ruby"
+      }
+    ]
+  }
+}
